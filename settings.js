@@ -115,7 +115,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "27649342626",
+    DEV: process.env.DEV || "923450073465",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
